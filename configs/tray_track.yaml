@@ -1,0 +1,7 @@
+# Tray Track Dataset
+
+train: /root/workspace/s7/datasets/TrayTrack-splits/train/images
+val: /root/workspace/s7/datasets/TrayTrack-splits/val/images
+
+names:
+  0: plastic-tray

@@ -1,5 +1,12 @@
 datasets/*
 videos/*
 models/*
+inputs/*
+outputs/*
+.api_keys/*
+
+__pycache__/
+runs/
+
 *mp4
 *mkv

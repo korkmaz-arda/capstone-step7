@@ -1,0 +1,23 @@
+names:
+  0: banana
+  1: black beans
+  2: grilled chicken breast
+  3: milk
+  4: orange juice
+  5: pizza
+  6: potato
+  7: salad
+  8: spaghetti
+  9: white rice
+
+
+roboflow:
+  license: CC BY 4.0
+  project: food-detection-fme3o
+  url: https://universe.roboflow.com/food-hofna/food-detection-fme3o/dataset/8
+  version: 8
+  workspace: food-hofna
+  
+test: /root/workspace/s7/datasets/FoodDetection/test/images
+train: /root/workspace/s7/datasets/FoodDetection/train/images
+val: /root/workspace/s7/datasets/FoodDetection/valid/images
